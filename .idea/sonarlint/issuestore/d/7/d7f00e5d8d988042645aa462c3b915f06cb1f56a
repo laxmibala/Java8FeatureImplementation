@@ -1,0 +1,36 @@
+
+O
+squid:S106N"9Replace this use of System.out or System.err by a logger.(í²ä¦
+O
+squid:S106L"9Replace this use of System.out or System.err by a logger.(í²ä¦
+T
+squid:S106'"9Replace this use of System.out or System.err by a logger.(¦Üñ“ûÿÿÿÿ
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ÞÊ¢Þýÿÿÿÿ
+O
+squid:S106E"9Replace this use of System.out or System.err by a logger.(à…ÿÿ
+T
+squid:S106@"9Replace this use of System.out or System.err by a logger.(Èãô¹ýÿÿÿÿ
+Hsquid:S16129",Replace this lambda with a method reference.(é³›Úÿÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÔ¾øÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚Ç›Øÿÿÿÿÿ
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(íÂÚóøÿÿÿÿ
+O
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ø¦é©
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ÖÕÜîýÿÿÿÿ
+O
+squid:S106J"9Replace this use of System.out or System.err by a logger.(í²ä¦
+T
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ø¶Äœûÿÿÿÿ
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(þõ‘›
+wsquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "str".(Ñ‰•÷ýÿÿÿÿ
+O
+squid:S106F"9Replace this use of System.out or System.err by a logger.(éæ„¨
+O
+squid:S1066"9Replace this use of System.out or System.err by a logger.(Ø·¥Ú
+O
+squid:S106:"9Replace this use of System.out or System.err by a logger.(¼ò…Ú
